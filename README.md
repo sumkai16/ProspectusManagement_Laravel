@@ -1,5 +1,3 @@
-# Prospectus Management System
----
 
 # Project Name: SyllabusConcordia  
 ## Project Title: Prospectus Management System  
