@@ -1,4 +1,65 @@
-# sim - Laravel Project
+# Prospectus Management System
+---
+
+# Project Name: SyllabusConcordia  
+## Project Title: Prospectus Management System  
+
+### 1. Authentication  
+- Register  
+- Login  
+- Forgot Password  
+- Logout  
+
+### 2. User's Page  
+- Profile Page  
+  - Get user's data  
+  - Change password  
+  - Change profile  
+- Enrollment Form  
+  - Add student's data  
+
+### 3. Admin Page  
+- Manage Roles  
+  - Get Roles data  
+  - Add Roles data  
+  - Edit Roles data  
+  - Delete Roles data  
+- Manage User's Status  
+  - Get Status data  
+  - Add Status data  
+  - Edit Status data  
+  - Delete Status data  
+- Manage Student's Status  
+  - Get Status data  
+  - Add Status data  
+  - Edit Status data  
+  - Delete Status data  
+- Manage Prospectus  
+  - Get Prospectus data  
+  - Add Prospectus data  
+  - Edit Prospectus data  
+  - Delete Prospectus data  
+- Manage Programs  
+  - Get Program data  
+  - Add Program data  
+  - Edit Program data  
+  - Delete Program data  
+- Manage Students  
+  - Get Students data  
+  - Add Students data  
+  - Edit Students data  
+  - Delete Students data  
+- Manage Users  
+  - Get Users data  
+  - Add Users data  
+  - Edit Users data  
+  - Delete Users data  
+- Enrollment Page  
+  - Get Enrollment data  
+  - Add Enrollment data  
+  - Edit Enrollment data  
+  - Delete Enrollment data  
+  - Approve Students Enrolling  
 
 ## Prerequisites
 
@@ -79,3 +140,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
